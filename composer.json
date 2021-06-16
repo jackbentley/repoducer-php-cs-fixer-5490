@@ -1,0 +1,7 @@
+{
+    "name": "jackb/phpcstest",
+    "type": "project",
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.0"
+    }
+}
